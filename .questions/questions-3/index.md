@@ -1,6 +1,10 @@
 Q: What is the difference between `let` and `const`?
 
-A: {YOUR ANSWER HERE}
+A:
+
+Let: Reassignable: Variables declared with let can be reassigned to a new value.
+
+const: Not Reassignable: Once a variable is assigned with const, its value cannot be reassigned.
 
 
-Remember to commit and push when you're finished!
+
